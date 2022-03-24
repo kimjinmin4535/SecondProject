@@ -4,5 +4,6 @@ public class Hello{
 		System.out.println("Hello Git!");
 		System.out.println("login");
 		System.out.println("log out");
+		System.out.println("Register");
 	}
 }
