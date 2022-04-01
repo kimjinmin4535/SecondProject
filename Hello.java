@@ -1,3 +1,5 @@
+//For command line igt tutorial
+//Github modification
 public class Hello{
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
@@ -7,6 +9,8 @@ public class Hello{
        		System.out.println("what is Git?");
 		System.out.println("That's DVCS!");
 		System.out.println("Good Afternoon!");
+		System.out.println("Hello Git2!");
+		System.out.println("Hello Git3!");
 
 	}
 }
